@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on AI-native products under Crab Lollipop<br>- 👯 I’m looking to collaborate on AI agents, SaaS, and startup ideas<br>- 🤝 I’m looking for help with product validation, GTM, and scaling<br>- 🌱 I’m currently learning AI engineering, agentic systems, and entrepreneurship<br>- 💬 Ask me about AI, startups, writing, philosophy, and worldbuilding<br>- ⚡ Fun fact: I build businesses and fantasy worlds with the same obsession
+- 🔭 I’m currently working on AI-native products under Crab Lollipop<br> - 👯 I’m looking to collaborate on AI agents, SaaS, and startup ideas<br>- 🤝 I’m looking for help with product validation, GTM, and scaling<br>- 🌱 I’m currently learning AI engineering, agentic systems, and entrepreneurship<br>- 💬 Ask me about AI, startups, writing, philosophy, and worldbuilding<br>- ⚡ Fun fact: I build businesses and fantasy worlds with the same obsession
 
 
 ## 🌐 Socials:
