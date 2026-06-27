@@ -1,9 +1,9 @@
-# adhiyaman
+# i am adhiyaman.
 
-working on software that helps people make better decisions.
+- working on software that helps people make better decisions.
 
-currently building crab lollipop.
+- currently building crab lollipop.
 
-everything else is a side quest.
+- everything else is a side quest.
 
-[my portfolio](https://www.adhiyaman.site/)
+[checkk out my portfolio.](https://www.adhiyaman.site/)
